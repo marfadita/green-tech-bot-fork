@@ -1,0 +1,7 @@
+/.venv/
+__pycache__/
+
+.vscode/
+.idea/
+
+/green-tech-bot/bot_secrets.py

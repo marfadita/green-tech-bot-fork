@@ -1,0 +1,158 @@
+<resources>
+    <string name="btn_report_bin_overflow">Сообщить о переполнении пункта РСО</string>
+    <string name="btn_collection_point_map">Карта расположения пунктов РСО</string>
+    <string name="btn_separate_collection_rules">Правила раздельного сбора</string>
+    <string name="btn_upcoming_collection_action">Ближайшая акция</string>
+    <string name="btn_destiny_of_collected_waste">Судьба собранных отходов</string>
+    <string name="btn_for_volunteers">Кнопка для волонтеров</string>
+    <string name="btn_newsletter">Рассылка</string>
+
+    <string name="btn_subscribe">Подписаться</string>
+    <string name="btn_unsubscribe">Отписаться</string>
+
+    <string name="btn_volunteer_subscribe">Подписаться на рассылку пункта РСО</string>
+    <string name="btn_volunteer_unsubscribe">Отписаться от рассылки пункта РСО</string>
+    <string name="btn_i_took_out_waste">Вынес вторсырье</string>
+
+    <string name="btn_yes">Да!</string>
+    <string name="btn_no">Нет!</string>
+    <string name="btn_back_to_main">Вернуться к главному меню</string>
+
+    <string name="msg_greeting_on_start">Привет, {0}!
+Рад познакомиться, я бот сообщества [Green.tech](https://vk.com/green_tech_mipt). Мы занимаемся развитием экодвижения на физтехе. С моей помощью ты можешь узнать:
+   - актуальные новости
+   - правила раздельного сбора отходов
+   - расположение пунктов сбора вторсырья
+А ещё мы проводим ежемесячные акции по сбору вторсырья, на которых принимается практически всё!</string>
+
+    <string name="msg_main_menu">Главное меню</string>
+    <string name="msg_idk_choose_answer_from_menu">Я тебя не понимаю...
+Выбери пункт из меню</string>
+
+    <string name="msg_collection_point_map">Карта пунктов РСО
+https://diht2016.github.io/green-tech-mipt/map/</string>
+    <string name="msg_several_collection_points">Эту фракцию можно сдать на нескольких пунктах РСО</string>
+    <string name="msg_no_collection_points">Эту фракцию пока нельзя сдать на пунктах РСО</string>
+    <string name="btn_other_fractions">Остальные фракции</string>
+    <string name="msg_other_fractions">Остальные фракции</string>
+
+    <string name="msg_separate_collection_rules">Правила РСО</string>
+    <string name="msg_upcoming_collection_action">Ура! Следующая акция будет {0}. Мне сдавать нечего, а вот тебе советую сходить.</string>
+    <string name="msg_destiny_of_collected_waste">Всё вторсырье отвозится в Собиратор, где вторматериалы уже распределяются по переработчикам. Список организаций, куда попадает собранное, находится на [сайте](https://sobirator.ru/partners/) Собиратора.</string>
+
+    <string name="msg_volunteers_menu">Меню волонтера</string>
+    <string name="msg_where_overflow">Расположение пункта РСО</string>
+    <string name="msg_overflow_what">Тип вторсырья</string>
+    <string name="msg_overflow_report">Точка переполнилась!
+Где: {0}
+Тип: {1}</string>
+    <string name="msg_where_took_out">Расположение пункта РСО</string>
+    <string name="msg_what_taking_out">Тип вторсырья</string>
+    <string name="msg_whats_your_name">Как тебя зовут?</string>
+    <string name="msg_thanks_for_help">Спасибо за помощь!</string>
+    <string name="msg_where_subscribe">На какую точку хотите подписаться?</string>
+    <string name="msg_subscribed">Подписались</string>
+    <string name="msg_no_subscriptions">Нет подписок</string>
+    <string name="msg_where_unsubscribe">Выберите рассылку от которой хотите отписаться</string>
+
+    <string name="msg_newsletter_menu">Меню рассылки</string>
+    <string name="msg_newsletter_subscribed">Теперь вы будете получать нашу рассылку</string>
+    <string name="msg_newsletter_unsubscribed">Теперь вы не будете получать нашу рассылку</string>
+
+    <string name="msg_write_a_message_to_send_out">Напиши сообщение, которое надо отправить всем подписчикам</string>
+    <string name="msg_message_will_look_like">Отправляемое сообщение:</string>
+    <string name="msg_announcement_confirm">Отправить?</string>
+    <string name="msg_announcement_sent">Сообщение отправлено</string>
+    <string name="msg_you_can_unsubscribe">У тебя есть возможность отписаться от нашей рассылки новостей, но нам будет очень грустно без тебя.
+В любой момент настройки можно поменять в меню рассылки</string>
+    <string name="msg_choose_to_unsubscribe">Выберите рассылку, от которой хотите отписаться</string>
+
+
+    <string name="pet_plastic">Пластик (PET, 1)</string>
+    <string name="pet_plastic_rules">PET бутылочный прозрачный
+✅ *Принимаются:*
+- бесцветные, голубые, коричневые, зеленые бутылки от напитков, в том числе 5-литровые бутылки.
+❌ *Не принимаются:*
+- бутылки и банки белого цвета\*
+- бутылки от растительного масла, уксуса, кетчупа, соуса\*
+- бутылки и банки от бытовой химии, косметики и сыпучих продуктов\*
+- PET-коррекс не из-под напитков\*
+- материалы с маркировкой PET-G, PET+«что угодно».
+❗️ *Как подготовить:*
+- сполоснуть бутылку от остатков напитка
+- снять термоусадочную пленку, если есть (плотно обтягивает бутылку, а не приклеена к ней)
+- сдавать сухим
+
+\* Принимаются отдельно на акциях РСО.</string>
+
+    <string name="waste_paper">Макулатура</string>
+    <string name="waste_paper_rules">Бумага и тонкий картон
+✅ *Принимаются:*
+- бумага, бумага после шредера
+- журналы, газеты
+- книги, тетради, альбомы
+- листовки, брошюры
+- НЕгофрированный картон
+❌ *Не принимаются:*
+- тетрапак\*
+- чеки\*
+- бумажные стаканчики и посуду
+- жирную, масляную бумагу
+- ламинированную/фольгированную/вощеную бумагу
+- салфетки, бумажные полотенца, туалетную бумагу
+- деревянные предметы
+❗️ *Как подготовить:*
+- удалить металлические пружины и пластиковые включения
+- проверить глянцевую бумагу, нет ли там плёнки, надорвав её.
+
+\* Принимаются отдельно на акциях РСО.</string>
+
+    <string name="glass">Стекло</string>
+    <string name="glass_rules">✅ *Принимаем:*
+- банки
+- бутылки
+❌ *Не принимаем:*
+- лампочки любые
+- листовое стекло (оконное, машинное)
+- керамику, вазы
+- зеркала
+- стеклобой
+❗️ *Как подготовить:*
+- сполоснуть
+- снять крышки</string>
+
+
+    <string name="batteries">Батарейки</string>
+    <string name="batteries_rules">✅ *Принимаем:*
+- любые батарейки
+- вейпы
+❌ *Не принимаем:*
+- аккумуляторы</string>
+
+    <string name="plastic_lids">Пластиковые крышки</string>
+    <string name="plastic_lids_rules">✅ *Принимаем:*
+- пластиковые крышечки от напитков в пластиковых бутылках и упаковках TetraPak
+- пластиковые крышечки от упаковок дойпак
+- пластиковые колечки от бутылок и ручки от 5-литровых бутылок
+- другие крышечки с маркировкой 02/04 на внутренней стороне крышечки
+❌ *Не принимаем:*
+- металлические крышки
+- горлышки от упаковки TetraPak
+❗️ *Как подготовить:*
+- отделите вкладыши от крышечек</string>
+
+    <string name="blisters">Блистеры</string>
+    <string name="blisters_rules">✅ *Принимаем:*
+- блистеры от таблеток и драже
+❌ *Не принимаем:*
+- лекарства
+- шприцы и детали от них</string>
+
+    <string name="toothbrushes">Зубные щетки</string>
+    <string name="toothbrushes_rules">✅ *Принимаем:*
+- пластиковые щетки
+❌ *Не принимаем:*
+- бамбуковые
+- хозяйственные и другие щетки
+- электрические щетки и насадки</string>
+</resources>
